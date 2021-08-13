@@ -1,3 +1,9 @@
 body {
     color: #003;
 }
+
+.content {
+    padding: 30px;
+    max-width: 600px;
+    margin: auto;
+}
