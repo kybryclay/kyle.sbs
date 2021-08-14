@@ -1,5 +1,7 @@
 body {
     color: #1c413c;
+    background-image: url("costume1.svg");
+    background-color: #36355c;
 }
 
 .content {
@@ -10,4 +12,4 @@ body {
 
 .greay {
     color: #637573;
-}
+} 
