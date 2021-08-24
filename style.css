@@ -2,7 +2,7 @@ body {
     color: #1c413c;
     background-image: url("sand.svg");
     background-color: #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Atkinson Hyperlegible Regular", Arial, Helvetica, sans-serif;
 }
 
 .content {
